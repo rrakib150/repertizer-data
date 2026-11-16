@@ -1,112 +1,280 @@
 {
- "version": 1,
+ "version": 2,
  "generated": "2026-11-16",
- "note": "Phase 1: JSON packs as read by the Repertizer apps. Files live under packs/ and mirror the web data/ folder.",
+ "note": "Phase 2: each pack is also stored gzip-compressed as <name>.json.gz (the phone app reads these). The plain .json files stay for older app versions.",
  "files": [
   {
    "path": "packs/boenn/meta.json",
    "bytes": 1155620,
-   "sha256": "1b338d73c11a8bbf67d603583c6e0dbe85a24f46f50681a0842d327b3ae244de"
+   "sha256": "1b338d73c11a8bbf67d603583c6e0dbe85a24f46f50681a0842d327b3ae244de",
+   "encoding": "none"
+  },
+  {
+   "path": "packs/boenn/meta.json.gz",
+   "bytes": 234946,
+   "sha256": "dfb6e1527fbadebe2189b1bb5247bb89fede3d92281dce9040e46baea0b2aa7f",
+   "json_bytes": 1155620,
+   "encoding": "gzip"
   },
   {
    "path": "packs/boenn/rubrics-0.json",
    "bytes": 6280802,
-   "sha256": "c130a5f39a9f47edb398239bad4d8e3ac62277f1bd6f8d10640c48ef99fe91dc"
+   "sha256": "c130a5f39a9f47edb398239bad4d8e3ac62277f1bd6f8d10640c48ef99fe91dc",
+   "encoding": "none"
+  },
+  {
+   "path": "packs/boenn/rubrics-0.json.gz",
+   "bytes": 928181,
+   "sha256": "b15b4ee3a5e1673648e1a0766d99b67b27954a56ff703409d640b38d7f191d11",
+   "json_bytes": 6280802,
+   "encoding": "gzip"
   },
   {
    "path": "packs/boericke/meta.json",
    "bytes": 4902051,
-   "sha256": "806d4629a9c2ddb7f74235e1e4ecd271abcd698273d1e171248dc2f4c0d0ce31"
+   "sha256": "806d4629a9c2ddb7f74235e1e4ecd271abcd698273d1e171248dc2f4c0d0ce31",
+   "encoding": "none"
+  },
+  {
+   "path": "packs/boericke/meta.json.gz",
+   "bytes": 665317,
+   "sha256": "827344269bf810bb2fe8ba4cfe71f414a1ad2ecf628010219a062fa1ecdff773",
+   "json_bytes": 4902051,
+   "encoding": "gzip"
   },
   {
    "path": "packs/boericke/rubrics-0.json",
    "bytes": 1914708,
-   "sha256": "eb8525c3df61d4ea6800f143be041ed6ea37c825cf6d92afcd53bf28a6896c84"
+   "sha256": "eb8525c3df61d4ea6800f143be041ed6ea37c825cf6d92afcd53bf28a6896c84",
+   "encoding": "none"
+  },
+  {
+   "path": "packs/boericke/rubrics-0.json.gz",
+   "bytes": 478735,
+   "sha256": "bdf382db3798a9c8a8ae8aa3cc62c11474f5037fae0ada03802749e8c392fdfd",
+   "json_bytes": 1914708,
+   "encoding": "gzip"
   },
   {
    "path": "packs/counts.json",
    "bytes": 201,
-   "sha256": "56c6cb1e5e9b959173c0511ecf26c4e21353b3fa2902776bba19c7567a51d367"
+   "sha256": "56c6cb1e5e9b959173c0511ecf26c4e21353b3fa2902776bba19c7567a51d367",
+   "encoding": "none"
+  },
+  {
+   "path": "packs/counts.json.gz",
+   "bytes": 148,
+   "sha256": "a3d6d5429c6a8894d483b3328cd68bc0353312022fc4f482aac5ff0a3ae5d6d9",
+   "json_bytes": 201,
+   "encoding": "gzip"
   },
   {
    "path": "packs/hering/meta.json",
    "bytes": 4906021,
-   "sha256": "d84e27b51c0fa9f6ed65c225323fdb58afb4c3075082f86c90554c32d82b3f4c"
+   "sha256": "d84e27b51c0fa9f6ed65c225323fdb58afb4c3075082f86c90554c32d82b3f4c",
+   "encoding": "none"
+  },
+  {
+   "path": "packs/hering/meta.json.gz",
+   "bytes": 666451,
+   "sha256": "399e87f76277454636b0f63428475358649a7d1584e41f842f3ca03d1b53dbb5",
+   "json_bytes": 4906021,
+   "encoding": "gzip"
   },
   {
    "path": "packs/hering/rubrics-0.json",
    "bytes": 11020279,
-   "sha256": "8b7ba22329c3ea06f7fe877065a31d5bef38b68e7ad5ff3a34d60d3a537a8c82"
+   "sha256": "8b7ba22329c3ea06f7fe877065a31d5bef38b68e7ad5ff3a34d60d3a537a8c82",
+   "encoding": "none"
+  },
+  {
+   "path": "packs/hering/rubrics-0.json.gz",
+   "bytes": 1944284,
+   "sha256": "6429c9718450ac209f2f4764d25cb8c42d1af2dca6c6a4ce54bb85779b0fd37d",
+   "json_bytes": 11020279,
+   "encoding": "gzip"
   },
   {
    "path": "packs/kents/chapters.json",
    "bytes": 811,
-   "sha256": "5f45fc8f529ef664388832162d7d03175d5cce81dfac875bf6d9afcca6827a47"
+   "sha256": "5f45fc8f529ef664388832162d7d03175d5cce81dfac875bf6d9afcca6827a47",
+   "encoding": "none"
+  },
+  {
+   "path": "packs/kents/chapters.json.gz",
+   "bytes": 284,
+   "sha256": "5b707d98792c6d07b72676ebac247c1842d8e981d1215528760075040eb0d540",
+   "json_bytes": 811,
+   "encoding": "gzip"
   },
   {
    "path": "packs/kents/meta.json",
    "bytes": 4782674,
-   "sha256": "bc863e2306f7cf851ad949c95c13cdc4356f8e0cf92030dbd3d0507dd2a67dba"
+   "sha256": "bc863e2306f7cf851ad949c95c13cdc4356f8e0cf92030dbd3d0507dd2a67dba",
+   "encoding": "none"
+  },
+  {
+   "path": "packs/kents/meta.json.gz",
+   "bytes": 662272,
+   "sha256": "66424458a0bcfc7e28b1363f5251acd5519fc1d62ac70f2fa77690587d3aa5df",
+   "json_bytes": 4782674,
+   "encoding": "gzip"
   },
   {
    "path": "packs/kents/rubrics-0.json",
    "bytes": 20971532,
-   "sha256": "c8f9794b771dee35048a67963d845d4ab29a5e3fa9d8d57b537620c6ae811c3f"
+   "sha256": "c8f9794b771dee35048a67963d845d4ab29a5e3fa9d8d57b537620c6ae811c3f",
+   "encoding": "none"
+  },
+  {
+   "path": "packs/kents/rubrics-0.json.gz",
+   "bytes": 3102023,
+   "sha256": "0e33e43fb1ddf5562c1e64e3004a63e4e2f51724397a6fc2586f72a0aa4ca605",
+   "json_bytes": 20971532,
+   "encoding": "gzip"
   },
   {
    "path": "packs/kents/rubrics-1.json",
    "bytes": 1370552,
-   "sha256": "6a1e0ce6d481d0894cc399f90bc3133438aa0d636547756ce9e8dc545ae2f713"
+   "sha256": "6a1e0ce6d481d0894cc399f90bc3133438aa0d636547756ce9e8dc545ae2f713",
+   "encoding": "none"
+  },
+  {
+   "path": "packs/kents/rubrics-1.json.gz",
+   "bytes": 220991,
+   "sha256": "b28382e46e29060458de00d4011fd246ce72e21ab6ff1fb1466235ae89973413",
+   "json_bytes": 1370552,
+   "encoding": "gzip"
   },
   {
    "path": "packs/mm/rubrics.json",
    "bytes": 11974750,
-   "sha256": "331a11a0278206249592a8fe3c23d719cf75a6383924cad87fcaa0b0c92e2d7c"
+   "sha256": "331a11a0278206249592a8fe3c23d719cf75a6383924cad87fcaa0b0c92e2d7c",
+   "encoding": "none"
+  },
+  {
+   "path": "packs/mm/rubrics.json.gz",
+   "bytes": 2265340,
+   "sha256": "f2ab55fb395bfc9720fe77a079f1fcc5cb078b245f76e7adbbca12268ea3c053",
+   "json_bytes": 11974750,
+   "encoding": "gzip"
   },
   {
    "path": "packs/murphy/meta.json",
    "bytes": 8765785,
-   "sha256": "0c7077b64edd73b7c3b363c098f313cff8a0f82b7558abd2d2f216a909554cc8"
+   "sha256": "0c7077b64edd73b7c3b363c098f313cff8a0f82b7558abd2d2f216a909554cc8",
+   "encoding": "none"
+  },
+  {
+   "path": "packs/murphy/meta.json.gz",
+   "bytes": 1531955,
+   "sha256": "e04ceab661d5ee69af64ed6733ad00eec0181db085df0f054810e86c085e9de9",
+   "json_bytes": 8765785,
+   "encoding": "gzip"
   },
   {
    "path": "packs/murphy/rubrics-0.json",
    "bytes": 25582576,
-   "sha256": "d48c9afd20a3011be855d086e929c8db467ffd4966e1be09b87b037269896af5"
+   "sha256": "d48c9afd20a3011be855d086e929c8db467ffd4966e1be09b87b037269896af5",
+   "encoding": "none"
+  },
+  {
+   "path": "packs/murphy/rubrics-0.json.gz",
+   "bytes": 4007917,
+   "sha256": "f253322e942d8fa06b4e76c24b60b4f1160d1102e2c02731afe6b35994557953",
+   "json_bytes": 25582576,
+   "encoding": "gzip"
   },
   {
    "path": "packs/murphy/rubrics-1.json",
    "bytes": 16553036,
-   "sha256": "7ccadcfe21bdc09ee0bb3d82abc8fb122480aaaed9f743f5b59db425d54d5b36"
+   "sha256": "7ccadcfe21bdc09ee0bb3d82abc8fb122480aaaed9f743f5b59db425d54d5b36",
+   "encoding": "none"
+  },
+  {
+   "path": "packs/murphy/rubrics-1.json.gz",
+   "bytes": 2866741,
+   "sha256": "8930f18b3d84e7a2c8106ab6dad6e8bcd927d64d424123076aeb8fe87fae167b",
+   "json_bytes": 16553036,
+   "encoding": "gzip"
   },
   {
    "path": "packs/nash/data.json",
    "bytes": 778745,
-   "sha256": "c0c6cb4bfe16f85f30d4ae1f2737ac67ab37a4d9bfe95dede346fce4ce5ad899"
+   "sha256": "c0c6cb4bfe16f85f30d4ae1f2737ac67ab37a4d9bfe95dede346fce4ce5ad899",
+   "encoding": "none"
+  },
+  {
+   "path": "packs/nash/data.json.gz",
+   "bytes": 179182,
+   "sha256": "4e93f7722cbb5873796bd25c92c90b7c7ead2cfabe4eeede73acf2cc3853c725",
+   "json_bytes": 778745,
+   "encoding": "gzip"
   },
   {
    "path": "packs/phatak/meta.json",
    "bytes": 10256,
-   "sha256": "8ab55e7bd70d132d112fa19810c6b4dca06c5004e39879a26b1694f897be1f96"
+   "sha256": "8ab55e7bd70d132d112fa19810c6b4dca06c5004e39879a26b1694f897be1f96",
+   "encoding": "none"
+  },
+  {
+   "path": "packs/phatak/meta.json.gz",
+   "bytes": 2300,
+   "sha256": "921d87c764471ab8af92963fa4b9c865cec1746b2258c54c7731781af9a4af44",
+   "json_bytes": 10256,
+   "encoding": "gzip"
   },
   {
    "path": "packs/phatak/rubrics-0.json",
    "bytes": 3937429,
-   "sha256": "a96f97581916ecefa5cd210f309a8d0783340f6999622b1460bbbd9e68634cc7"
+   "sha256": "a96f97581916ecefa5cd210f309a8d0783340f6999622b1460bbbd9e68634cc7",
+   "encoding": "none"
+  },
+  {
+   "path": "packs/phatak/rubrics-0.json.gz",
+   "bytes": 558872,
+   "sha256": "db8bacdb8150a77d83ac083fb445fb276f89340809814615ab4579de3eba4d5c",
+   "json_bytes": 3937429,
+   "encoding": "gzip"
   },
   {
    "path": "packs/synthesis/meta.json",
    "bytes": 9735780,
-   "sha256": "22ba8ad135038833147ad237a99b486ad48445e171df16d4f5ceaa79c9567c19"
+   "sha256": "22ba8ad135038833147ad237a99b486ad48445e171df16d4f5ceaa79c9567c19",
+   "encoding": "none"
+  },
+  {
+   "path": "packs/synthesis/meta.json.gz",
+   "bytes": 1496724,
+   "sha256": "a8089f085aef292a41026c0094cab35cb9d746cab3ef6c826a53528bd70fe845",
+   "json_bytes": 9735780,
+   "encoding": "gzip"
   },
   {
    "path": "packs/synthesis/rubrics-0.json",
    "bytes": 24904163,
-   "sha256": "da98a3d98842d87a0445038a5a12a2a168dc5f1374b005ebaa46b3e69f12044b"
+   "sha256": "da98a3d98842d87a0445038a5a12a2a168dc5f1374b005ebaa46b3e69f12044b",
+   "encoding": "none"
+  },
+  {
+   "path": "packs/synthesis/rubrics-0.json.gz",
+   "bytes": 4094968,
+   "sha256": "dfa98df30f9f409aa2d3af908564a88d36792f86100d104ae55010dca89a238a",
+   "json_bytes": 24904163,
+   "encoding": "gzip"
   },
   {
    "path": "packs/synthesis/rubrics-1.json",
    "bytes": 15073542,
-   "sha256": "d7ff0d1a4904ccf3414b48a06eea848c9aa7279a5a6306c5ba8840881a3102c9"
+   "sha256": "d7ff0d1a4904ccf3414b48a06eea848c9aa7279a5a6306c5ba8840881a3102c9",
+   "encoding": "none"
+  },
+  {
+   "path": "packs/synthesis/rubrics-1.json.gz",
+   "bytes": 2643381,
+   "sha256": "cf07af0a009739867de6ca5c8b5699d3a0f42c490c4880c822ab4d140f5dd796",
+   "json_bytes": 15073542,
+   "encoding": "gzip"
   }
  ]
 }
