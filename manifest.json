@@ -238,6 +238,20 @@
    "encoding": "gzip"
   },
   {
+   "path": "packs/synthesis/chapters.json",
+   "bytes": 4985,
+   "sha256": "e35dbf06f3f790d9093fbec2a899f965ad8aad84dc55372e2287adb4219c0e2f",
+   "json_bytes": 4985,
+   "encoding": "none"
+  },
+  {
+   "path": "packs/synthesis/chapters.json.gz",
+   "bytes": 1221,
+   "sha256": "22c36d0ecefd89df194da1e06e8ff9224f16bb68d9f76edb97b420ed2f651868",
+   "json_bytes": 4985,
+   "encoding": "gzip"
+  },
+  {
    "path": "packs/synthesis/meta.json",
    "bytes": 9735780,
    "sha256": "22ba8ad135038833147ad237a99b486ad48445e171df16d4f5ceaa79c9567c19",

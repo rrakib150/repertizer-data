@@ -1,0 +1,253 @@
+{
+ "version": 1,
+ "built_from": "packs/synthesis/meta.json",
+ "note": "Chapter names only, so the Synthesis chapter list loads without the big rubric data.",
+ "chapters": [
+  {
+   "id": 13401753,
+   "chapter_order": 0,
+   "name_en": "MIND",
+   "name_bn": "মন"
+  },
+  {
+   "id": 13421673,
+   "chapter_order": 1,
+   "name_en": "VERTIGO",
+   "name_bn": "মাথা ঘোরা"
+  },
+  {
+   "id": 13422795,
+   "chapter_order": 2,
+   "name_en": "HEAD",
+   "name_bn": "মাথা"
+  },
+  {
+   "id": 13436856,
+   "chapter_order": 3,
+   "name_en": "EYE",
+   "name_bn": "চোখ"
+  },
+  {
+   "id": 13441736,
+   "chapter_order": 4,
+   "name_en": "VISION",
+   "name_bn": "দৃষ্টি"
+  },
+  {
+   "id": 13443537,
+   "chapter_order": 5,
+   "name_en": "EAR",
+   "name_bn": "কান"
+  },
+  {
+   "id": 13447258,
+   "chapter_order": 6,
+   "name_en": "HEARING",
+   "name_bn": "শ্রবণ"
+  },
+  {
+   "id": 13447648,
+   "chapter_order": 7,
+   "name_en": "NOSE",
+   "name_bn": "নাক"
+  },
+  {
+   "id": 13451214,
+   "chapter_order": 8,
+   "name_en": "FACE",
+   "name_bn": "মুখমণ্ডল"
+  },
+  {
+   "id": 13456676,
+   "chapter_order": 9,
+   "name_en": "MOUTH",
+   "name_bn": "মুখ"
+  },
+  {
+   "id": 13461623,
+   "chapter_order": 10,
+   "name_en": "TEETH",
+   "name_bn": "দাঁত"
+  },
+  {
+   "id": 13464006,
+   "chapter_order": 11,
+   "name_en": "THROAT",
+   "name_bn": "গলা"
+  },
+  {
+   "id": 13466820,
+   "chapter_order": 12,
+   "name_en": "EXTERNAL THROAT",
+   "name_bn": "বাইরের গলা"
+  },
+  {
+   "id": 13467555,
+   "chapter_order": 13,
+   "name_en": "NECK",
+   "name_bn": "ঘাড়"
+  },
+  {
+   "id": 13467786,
+   "chapter_order": 14,
+   "name_en": "STOMACH",
+   "name_bn": "পাকস্থলী"
+  },
+  {
+   "id": 13475545,
+   "chapter_order": 15,
+   "name_en": "ABDOMEN",
+   "name_bn": "পেট"
+  },
+  {
+   "id": 13485112,
+   "chapter_order": 16,
+   "name_en": "RECTUM",
+   "name_bn": "মলাশয়"
+  },
+  {
+   "id": 13488706,
+   "chapter_order": 17,
+   "name_en": "STOOL",
+   "name_bn": "মল"
+  },
+  {
+   "id": 13489420,
+   "chapter_order": 18,
+   "name_en": "BLADDER",
+   "name_bn": "মূত্রাশয়"
+  },
+  {
+   "id": 13491140,
+   "chapter_order": 19,
+   "name_en": "KIDNEYS",
+   "name_bn": "কিডনি"
+  },
+  {
+   "id": 13491862,
+   "chapter_order": 20,
+   "name_en": "PROSTATE GLAND",
+   "name_bn": "প্রোস্টেট গ্রন্থি"
+  },
+  {
+   "id": 13492045,
+   "chapter_order": 21,
+   "name_en": "URETHRA",
+   "name_bn": "মূত্রনালি"
+  },
+  {
+   "id": 13493132,
+   "chapter_order": 22,
+   "name_en": "URINE",
+   "name_bn": "প্রস্রাব"
+  },
+  {
+   "id": 13493863,
+   "chapter_order": 23,
+   "name_en": "URINARY ORGANS",
+   "name_bn": "মূত্রতন্ত্র"
+  },
+  {
+   "id": 13493932,
+   "chapter_order": 24,
+   "name_en": "MALE GENITALIA/SEX",
+   "name_bn": "পুরুষ জননাঙ্গ ও যৌনতা"
+  },
+  {
+   "id": 13496707,
+   "chapter_order": 25,
+   "name_en": "FEMALE GENITALIA/SEX",
+   "name_bn": "নারী জননাঙ্গ ও যৌনতা"
+  },
+  {
+   "id": 13501514,
+   "chapter_order": 26,
+   "name_en": "MALE AND FEMALE GENITALIA/SEX",
+   "name_bn": "পুরুষ ও নারী জননাঙ্গ ও যৌনতা"
+  },
+  {
+   "id": 13501704,
+   "chapter_order": 27,
+   "name_en": "LARYNX AND TRACHEA",
+   "name_bn": "স্বরযন্ত্র ও শ্বাসনালি"
+  },
+  {
+   "id": 13503238,
+   "chapter_order": 28,
+   "name_en": "RESPIRATION",
+   "name_bn": "শ্বাসপ্রশ্বাস"
+  },
+  {
+   "id": 13505697,
+   "chapter_order": 29,
+   "name_en": "COUGH",
+   "name_bn": "কাশি"
+  },
+  {
+   "id": 13508328,
+   "chapter_order": 30,
+   "name_en": "EXPECTORATION",
+   "name_bn": "কফ নিষ্কাশন"
+  },
+  {
+   "id": 13508839,
+   "chapter_order": 31,
+   "name_en": "CHEST",
+   "name_bn": "বুক"
+  },
+  {
+   "id": 13518101,
+   "chapter_order": 32,
+   "name_en": "BACK",
+   "name_bn": "পিঠ"
+  },
+  {
+   "id": 13526753,
+   "chapter_order": 33,
+   "name_en": "EXTREMITIES",
+   "name_bn": "হাত-পা"
+  },
+  {
+   "id": 13555275,
+   "chapter_order": 34,
+   "name_en": "SLEEP",
+   "name_bn": "ঘুম"
+  },
+  {
+   "id": 13558201,
+   "chapter_order": 35,
+   "name_en": "DREAMS",
+   "name_bn": "স্বপ্ন"
+  },
+  {
+   "id": 13562361,
+   "chapter_order": 36,
+   "name_en": "CHILL",
+   "name_bn": "ঠান্ডা লাগা"
+  },
+  {
+   "id": 13563645,
+   "chapter_order": 37,
+   "name_en": "FEVER",
+   "name_bn": "জ্বর"
+  },
+  {
+   "id": 13565052,
+   "chapter_order": 38,
+   "name_en": "PERSPIRATION",
+   "name_bn": "ঘাম"
+  },
+  {
+   "id": 13565826,
+   "chapter_order": 39,
+   "name_en": "SKIN",
+   "name_bn": "ত্বক"
+  },
+  {
+   "id": 13569143,
+   "chapter_order": 40,
+   "name_en": "GENERALS",
+   "name_bn": "সাধারণ লক্ষণ"
+  }
+ ]
+}
