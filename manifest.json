@@ -1443,9 +1443,9 @@
   },
   {
    "path": "packs/kents/search.json.gz",
-   "bytes": 1819465,
-   "sha256": "391bd31bc1b00a90df1700656797b7b92060206124add260304cce73a9526402",
-   "json_bytes": 13665067,
+   "bytes": 1831165,
+   "sha256": "a7d2ef28af9a47de2db83a25f7ac8738db057841951c867af5686c0a0a7fe085",
+   "json_bytes": 13595820,
    "encoding": "gzip"
   },
   {
@@ -3945,9 +3945,9 @@
   },
   {
    "path": "packs/synthesis/search.json.gz",
-   "bytes": 3920079,
-   "sha256": "3d9772bb519eb5c4ca1b41d6b0ad6d53f9dd524b81c537556d5342bd9868271d",
-   "json_bytes": 26437013,
+   "bytes": 3985642,
+   "sha256": "6e032d890b97565747fd709bbcaedc222b7a365e03bf63772ebf13c1d18825a6",
+   "json_bytes": 27263157,
    "encoding": "gzip"
   }
  ]
