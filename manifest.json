@@ -5,8 +5,8 @@
  "files": [
   {
    "path": "packs/boenn/ch/0.json.gz",
-   "bytes": 23540,
-   "sha256": "3bb7114d76cae2d9da4c9d98d560f97d3be7a24db19bdfb7e898353c642a7ff2",
+   "bytes": 23534,
+   "sha256": "24b6eee65244b2caa2ba2d2c6eace8469d1fd8bc18daf12d477348464af5f234",
    "json_bytes": 156194,
    "encoding": "gzip"
   },
@@ -54,8 +54,8 @@
   },
   {
    "path": "packs/boenn/ch/15.json.gz",
-   "bytes": 28375,
-   "sha256": "5e20012577414425f46942be6570131c678dd40e7f644da02f1a458fd7af95f1",
+   "bytes": 28366,
+   "sha256": "87a1fb2513a62c3b485ae61c91c4c3dae825c3ce420b42fc578d542c98bff24e",
    "json_bytes": 167053,
    "encoding": "gzip"
   },
@@ -68,15 +68,15 @@
   },
   {
    "path": "packs/boenn/ch/17.json.gz",
-   "bytes": 12098,
-   "sha256": "35f2bc7f75bea45c5c7b4c799404f33d83df35027b1eb66ce59ba0b4882aead8",
+   "bytes": 12091,
+   "sha256": "ece8d160ca544013807f41a20210e7ad22051fd138a536601e0fee874be9c118",
    "json_bytes": 77581,
    "encoding": "gzip"
   },
   {
    "path": "packs/boenn/ch/18.json.gz",
-   "bytes": 5670,
-   "sha256": "e54b1190cfa91e2408b62bc22b17ae3d9533d5d7fc84791a843a224d51b71812",
+   "bytes": 5662,
+   "sha256": "27a6569942f68863b508eb404eb8bdd63fde47ccd8947ea5e8c0b6238d094589",
    "json_bytes": 35247,
    "encoding": "gzip"
   },
@@ -110,15 +110,15 @@
   },
   {
    "path": "packs/boenn/ch/22.json.gz",
-   "bytes": 47086,
-   "sha256": "24410bc408c1ce3018f18b894afa05cc16b8e7830d47cfbbef431deb0fae98ad",
+   "bytes": 47079,
+   "sha256": "60bb32c8df97d6b320fdaedc74406d2d3924cab084612007b5dd5c0554829d13",
    "json_bytes": 322123,
    "encoding": "gzip"
   },
   {
    "path": "packs/boenn/ch/23.json.gz",
-   "bytes": 28164,
-   "sha256": "c9880338d3ab1fb42e6e8cc1732933d18dd078f51af403bf20d339ecb0dcf7f6",
+   "bytes": 28157,
+   "sha256": "673a5f0ecb10018a83fa2e7df061fb2ecf0439ab2affdd424195949ac0a58308",
    "json_bytes": 210609,
    "encoding": "gzip"
   },
@@ -138,29 +138,29 @@
   },
   {
    "path": "packs/boenn/ch/26.json.gz",
-   "bytes": 4263,
-   "sha256": "88582112d4c43b86e39c70a64d40e3155e583d0a6e5532c873e5e505dcc4a5f3",
+   "bytes": 4255,
+   "sha256": "4fae9a31c1a1252cf4b8310c6e83fd417b72093393caa9364a340ae4f680f5ec",
    "json_bytes": 25174,
    "encoding": "gzip"
   },
   {
    "path": "packs/boenn/ch/27.json.gz",
-   "bytes": 31951,
-   "sha256": "f46eed5713bba15181655d4d2f40337a8d47fc87a97d28a4812cfc95ddbc994a",
+   "bytes": 31943,
+   "sha256": "a532ac6f1780b84ff1de3bd7c97e84ab65fba0bbedb3b53558384fe59fbef298",
    "json_bytes": 208041,
    "encoding": "gzip"
   },
   {
    "path": "packs/boenn/ch/28.json.gz",
-   "bytes": 5519,
-   "sha256": "95134a4d3816d837fd45a5713d844d23bb136a0552506668d9353e523c670081",
+   "bytes": 5511,
+   "sha256": "fd4e509e23b486b89bd17e74f11b0ffcb8bf0cd9722ed568b360e9b0fe9b1dd3",
    "json_bytes": 32359,
    "encoding": "gzip"
   },
   {
    "path": "packs/boenn/ch/29.json.gz",
-   "bytes": 40227,
-   "sha256": "60b46644926f63dfe7db3431652352449a55f78a1f121da592b8f214249c9d14",
+   "bytes": 40221,
+   "sha256": "13ccfad4a29dcc59ab809e2129852e45f405370ca49897ef7a3a11a130a254fd",
    "json_bytes": 275398,
    "encoding": "gzip"
   },
@@ -173,15 +173,15 @@
   },
   {
    "path": "packs/boenn/ch/30.json.gz",
-   "bytes": 10203,
-   "sha256": "0e6839ea5167e00c89fb36aeaeaf1bd7086f93acbe4a1aa0d8959464f688aab1",
+   "bytes": 10195,
+   "sha256": "4071c59e5e8613d92ba3c5eddffb9e29ed92e95d02b3499c4f28f91b2fbfa656",
    "json_bytes": 61947,
    "encoding": "gzip"
   },
   {
    "path": "packs/boenn/ch/31.json.gz",
-   "bytes": 15250,
-   "sha256": "afed3ea4cf6caf75fc5841671acb093c38e0e0ff1aaca00b837b16d8e0e75c8d",
+   "bytes": 15243,
+   "sha256": "2f7b2fb5360308ffcb4b8b92fb64db9190314547941fe31ace877b605e2855e4",
    "json_bytes": 107364,
    "encoding": "gzip"
   },
@@ -194,15 +194,15 @@
   },
   {
    "path": "packs/boenn/ch/33.json.gz",
-   "bytes": 32549,
-   "sha256": "fb61bf79bc2db0de0a702d5cef19d03d29695bbe41b0ca6699e10dca3dee5275",
+   "bytes": 32541,
+   "sha256": "c63b57e834e651404fd53a86efd00fef73c8e8e41dd291c61a48fde320c4f638",
    "json_bytes": 204918,
    "encoding": "gzip"
   },
   {
    "path": "packs/boenn/ch/34.json.gz",
-   "bytes": 14364,
-   "sha256": "b15f4da1bbdf6e15149b9f7d29248fecc3551b4e86443c5793eead6170225314",
+   "bytes": 14356,
+   "sha256": "307e13afb70344478defa2ca8117e5df8551b8f1519bb6b0039e992b3487165e",
    "json_bytes": 90903,
    "encoding": "gzip"
   },
@@ -215,8 +215,8 @@
   },
   {
    "path": "packs/boenn/ch/36.json.gz",
-   "bytes": 17807,
-   "sha256": "bee68329048c6d28c5ad17d4286bf09a6b2f3eb26d972042f09f7bc48a91efc8",
+   "bytes": 17800,
+   "sha256": "98569b6a81ae92f15b0c2055239b4e84bf836664d72d21f861529bc3cb21e39b",
    "json_bytes": 104759,
    "encoding": "gzip"
   },
@@ -236,8 +236,8 @@
   },
   {
    "path": "packs/boenn/ch/39.json.gz",
-   "bytes": 406,
-   "sha256": "7cc78876cfbb888a91d2853fd8f6eb41d40bac97412e388458b379716a5deb2e",
+   "bytes": 398,
+   "sha256": "06ff2b954b3b7f0604bb51607c7d8b6079e91a2cae9157d1bcc1196ee0f4d587",
    "json_bytes": 1197,
    "encoding": "gzip"
   },
@@ -257,15 +257,15 @@
   },
   {
    "path": "packs/boenn/ch/41.json.gz",
-   "bytes": 21153,
-   "sha256": "ae2a99b09ea09b3259cba58bae7e87977ad7226ee98f9028f67a7a190168349c",
+   "bytes": 21146,
+   "sha256": "e788a033ded38df69e79339f7b5cd659109a63c3467d88a8252123fb4e410262",
    "json_bytes": 142616,
    "encoding": "gzip"
   },
   {
    "path": "packs/boenn/ch/42.json.gz",
-   "bytes": 49966,
-   "sha256": "d35a513bac75715a3079f755aec6b2dfff40b5264675c42fdaa152efa656d0d5",
+   "bytes": 49957,
+   "sha256": "02fef4283bfd8c5e4133cb94ae79640fcd437011b48c0831726ba34fc59fc5f8",
    "json_bytes": 396257,
    "encoding": "gzip"
   },
@@ -278,15 +278,15 @@
   },
   {
    "path": "packs/boenn/ch/44.json.gz",
-   "bytes": 6310,
-   "sha256": "c2f4bd632d2b314775b57e52a86f625313c912bee871e57aa635662155cd9ada",
+   "bytes": 6302,
+   "sha256": "4647bcbad14db02cbd5b10d00029124ed4a52ebba59e1a76943cbacea266a098",
    "json_bytes": 37918,
    "encoding": "gzip"
   },
   {
    "path": "packs/boenn/ch/45.json.gz",
-   "bytes": 33572,
-   "sha256": "e439a9db09d09ede1268c148b7d2b2ab66bb5c25618608ffe3ffb237d2606df5",
+   "bytes": 33564,
+   "sha256": "6962186e6c19175c1afb2648ee20cc62a5576e097000ad7fe89e9110709c368d",
    "json_bytes": 240695,
    "encoding": "gzip"
   },
@@ -299,22 +299,22 @@
   },
   {
    "path": "packs/boenn/ch/47.json.gz",
-   "bytes": 19333,
-   "sha256": "8b07619e4d0333bff1b66e1f34c58afb9f551d31f0392d07f6e895b0d0d943ea",
+   "bytes": 19326,
+   "sha256": "4951d3b7d1d8faa02c9d1c5bce984621066d54bc06349d69f4a5b817c0c59e66",
    "json_bytes": 117731,
    "encoding": "gzip"
   },
   {
    "path": "packs/boenn/ch/48.json.gz",
-   "bytes": 26300,
-   "sha256": "a5654d2f6a1c14c249edb9a8cb25cb4480b1837f7dbee543200824fa29bbcda0",
+   "bytes": 26292,
+   "sha256": "44d3d6b17fceebb099e77bfff8f32c4bdd81d929a2e0031ddf7afce0208d49a1",
    "json_bytes": 167242,
    "encoding": "gzip"
   },
   {
    "path": "packs/boenn/ch/49.json.gz",
-   "bytes": 22283,
-   "sha256": "2052d2ad3023ef8f54bd13edc4943b3e0661fcba6dfda2cdc28d9423d9a446fd",
+   "bytes": 22276,
+   "sha256": "08ec4300fe4dfeaeee54142ddef40b459641fdf051def96830c052627373e7b2",
    "json_bytes": 145810,
    "encoding": "gzip"
   },
@@ -334,15 +334,15 @@
   },
   {
    "path": "packs/boenn/ch/51.json.gz",
-   "bytes": 23523,
-   "sha256": "96cf7b8fd348134dc04b8a426286b4c2df39e2808e6368a0feec949905c8b9ef",
+   "bytes": 23515,
+   "sha256": "6b39927fbfb8400d77b3d8da02bdf6629b3a236ae43142f3758ffd029542a06b",
    "json_bytes": 151565,
    "encoding": "gzip"
   },
   {
    "path": "packs/boenn/ch/52.json.gz",
-   "bytes": 2689,
-   "sha256": "3988315c5882e577fb878ea96c43aad1a15f1d52d35e57d1a210c3347eae1bc5",
+   "bytes": 2681,
+   "sha256": "c9c66ffcb2e77def4e03c979c0eee79d356b7a77df36a6a0a47dc9e80b1991b8",
    "json_bytes": 13045,
    "encoding": "gzip"
   },
@@ -362,22 +362,22 @@
   },
   {
    "path": "packs/boenn/ch/55.json.gz",
-   "bytes": 7737,
-   "sha256": "30303458045fa669d6d168cd504bc41ff32e52e718dea08ba37a9d4dddff8e96",
+   "bytes": 7729,
+   "sha256": "048354c4a0eab54626a1cdfffcb64853fb82fb9082fb71594a96e204d7298626",
    "json_bytes": 46026,
    "encoding": "gzip"
   },
   {
    "path": "packs/boenn/ch/56.json.gz",
-   "bytes": 17278,
-   "sha256": "60536d2e3d276c3d63c96e2e1dc9d4cd7366c7cf56e02ec56e74af851d21b0ed",
+   "bytes": 17271,
+   "sha256": "a0a45a42f6276e79717b53c895e22ff651f452a1a48bc521cde30d83c5c15d9a",
    "json_bytes": 106286,
    "encoding": "gzip"
   },
   {
    "path": "packs/boenn/ch/57.json.gz",
-   "bytes": 12325,
-   "sha256": "8f1a80ffcc88126c520fb3dfe573ed35b1e8b24bfdb077628adfd09da893887b",
+   "bytes": 12318,
+   "sha256": "0de8c0cb5ccbd3165599172bc88e946d8247c109f6ab571a1d9b48acc6055f1c",
    "json_bytes": 68884,
    "encoding": "gzip"
   },
@@ -390,15 +390,15 @@
   },
   {
    "path": "packs/boenn/ch/59.json.gz",
-   "bytes": 4634,
-   "sha256": "49016ef3a3654c1a96c11d7c83653cc0113db0b6765a5b170bc9356fa6425b20",
+   "bytes": 4626,
+   "sha256": "3edd02d3f0a17b2888ee6a53e81a36e3b09905fa2904683e271d6b489e531bac",
    "json_bytes": 26475,
    "encoding": "gzip"
   },
   {
    "path": "packs/boenn/ch/6.json.gz",
-   "bytes": 26986,
-   "sha256": "da682943dcd18db4369fb8b79b813d4e454260013a677526079eb92496222da2",
+   "bytes": 26980,
+   "sha256": "b246b6a65893bb8af4d56b0eeee3129d54e24ecf989b71fb29d53083a98a936f",
    "json_bytes": 181815,
    "encoding": "gzip"
   },
@@ -418,22 +418,22 @@
   },
   {
    "path": "packs/boenn/ch/8.json.gz",
-   "bytes": 47521,
-   "sha256": "97ad4fc47385ce1bb7c53a64b140458885a806861cad653393f46d40b61d3c81",
+   "bytes": 47515,
+   "sha256": "db625a30c201ba9ff40f9a2246d3a0e2cdb3b5cfec6676e6c7d2d33ba0c16f3c",
    "json_bytes": 391958,
    "encoding": "gzip"
   },
   {
    "path": "packs/boenn/ch/9.json.gz",
-   "bytes": 8385,
-   "sha256": "8d629189b88e8db4e2c7f9ce8beec5d8ccebec7c0be4cf8a94225dbe81b06f4b",
+   "bytes": 8379,
+   "sha256": "4f5bce5bdda05b7916d6d58976d29fc8749a383fac10c67031e0cf62c34a0fd0",
    "json_bytes": 49200,
    "encoding": "gzip"
   },
   {
    "path": "packs/boenn/collation.json.gz",
-   "bytes": 233398,
-   "sha256": "8e8d1feace9f9f4d77e103a5240d6109bf822aa9e14d16b75fb0efbb343f812c",
+   "bytes": 233382,
+   "sha256": "79dd02c35621e1e0875561850bb4777ac90e3afba32d41595bb3e70432362b15",
    "json_bytes": 1148287,
    "encoding": "gzip"
   },
@@ -447,26 +447,26 @@
   {
    "path": "packs/boenn/meta.json",
    "bytes": 1155620,
-   "sha256": "1b338d73c11a8bbf67d603583c6e0dbe85a24f46f50681a0842d327b3ae244de",
+   "sha256": "7d149a165b99fb7fa07747a546964afbe61ee237b4291f0775aa7672bdd0ca03",
    "encoding": "none"
   },
   {
    "path": "packs/boenn/meta.json.gz",
-   "bytes": 234946,
-   "sha256": "dfb6e1527fbadebe2189b1bb5247bb89fede3d92281dce9040e46baea0b2aa7f",
+   "bytes": 234934,
+   "sha256": "5c97aacad3fca5fbbf3b59f8afd2713d84143edf0cb8649288c98f1f3ad139fa",
    "json_bytes": 1155620,
    "encoding": "gzip"
   },
   {
    "path": "packs/boenn/rubrics-0.json",
    "bytes": 6280802,
-   "sha256": "c130a5f39a9f47edb398239bad4d8e3ac62277f1bd6f8d10640c48ef99fe91dc",
+   "sha256": "ad1ba00a1f85e5586cb2a98524e8f37011b41551f645ef690bfdf571c2e4996b",
    "encoding": "none"
   },
   {
    "path": "packs/boenn/rubrics-0.json.gz",
    "bytes": 928181,
-   "sha256": "b15b4ee3a5e1673648e1a0766d99b67b27954a56ff703409d640b38d7f191d11",
+   "sha256": "dafa31183e12c0547df009685da91ad9273c9db66a4f91b07e788f1d744f1557",
    "json_bytes": 6280802,
    "encoding": "gzip"
   },
@@ -2275,9 +2275,9 @@
   },
   {
    "path": "packs/murphy/ch/11.json.gz",
-   "bytes": 49948,
-   "sha256": "fc35247e05aa52063541aab305a70b67b884092a8f91f61931aabc198c166e2d",
-   "json_bytes": 254982,
+   "bytes": 49944,
+   "sha256": "1c610694f695de5c606007e2597d9b3c11b4c9403cd37e29860ac63aeefdb700",
+   "json_bytes": 254993,
    "encoding": "gzip"
   },
   {
@@ -2289,16 +2289,16 @@
   },
   {
    "path": "packs/murphy/ch/13.json.gz",
-   "bytes": 379617,
-   "sha256": "d8482c7f0182f948b0d1b27b7165cca3a5ec45e15e09cb2ed4f2024412a8270b",
-   "json_bytes": 2193884,
+   "bytes": 379635,
+   "sha256": "256058fb4e8f6c23388fcb0c9708c70d29f3453b64db5959bb31b7959050f808",
+   "json_bytes": 2193995,
    "encoding": "gzip"
   },
   {
    "path": "packs/murphy/ch/14.json.gz",
-   "bytes": 77697,
-   "sha256": "6fe401a9a28ed08c14913bf7901a24ec6c25f8b9c8bc984522718f752fed88bf",
-   "json_bytes": 402698,
+   "bytes": 77689,
+   "sha256": "a6c0741fd8f05b68a416484ad5115c475b4640b95796b22d044fdac78cccd76f",
+   "json_bytes": 402702,
    "encoding": "gzip"
   },
   {
@@ -2317,9 +2317,9 @@
   },
   {
    "path": "packs/murphy/ch/17.json.gz",
-   "bytes": 86839,
-   "sha256": "c4e4d3863df73f992765879443e1745263d05f2043bdda5d2df449d4a23bcdd7",
-   "json_bytes": 508967,
+   "bytes": 86830,
+   "sha256": "fb8a9b7f4a238dea789ddc62def21521813d3e30a09d38160503ea350a8601d3",
+   "json_bytes": 508971,
    "encoding": "gzip"
   },
   {
@@ -2352,16 +2352,16 @@
   },
   {
    "path": "packs/murphy/ch/21.json.gz",
-   "bytes": 19802,
-   "sha256": "202d47e35c38061178c745aff1925bad361067988360b2b30f97046d368748e3",
-   "json_bytes": 97785,
+   "bytes": 19794,
+   "sha256": "b81897cae55eea6d16c880b3d8887da76d2d3288ebb3f5cfbde807e1a9a463c6",
+   "json_bytes": 97787,
    "encoding": "gzip"
   },
   {
    "path": "packs/murphy/ch/22.json.gz",
-   "bytes": 101497,
-   "sha256": "7a1b799f0a80b6992fe477d174b00e59a59750cd1c9c8484608a9667639435db",
-   "json_bytes": 631073,
+   "bytes": 101488,
+   "sha256": "86a02c6927950d377524352e2f51b80325f20ab26d0d185e3c48bf8e3fc235ea",
+   "json_bytes": 631077,
    "encoding": "gzip"
   },
   {
@@ -2373,9 +2373,9 @@
   },
   {
    "path": "packs/murphy/ch/24.json.gz",
-   "bytes": 133383,
-   "sha256": "bf69f35b2ed1a72c3da892d8cfb0a303473ca88100dba79ebecdade335967a84",
-   "json_bytes": 725213,
+   "bytes": 133371,
+   "sha256": "6997f74aa9db20f66b481838e4c53fbd2cf67663bbbbead78eb87fa91baeaadb",
+   "json_bytes": 725223,
    "encoding": "gzip"
   },
   {
@@ -2436,9 +2436,9 @@
   },
   {
    "path": "packs/murphy/ch/32.json.gz",
-   "bytes": 78371,
-   "sha256": "844675d0cb9aa09ae3d06a5a32ed3e7f3b6b33552a37fb596ffdcc20e7768983",
-   "json_bytes": 444310,
+   "bytes": 78362,
+   "sha256": "e77ef92cd79ea22261bfb1ce361273a1c2e7f74392e82a65184c8ee6a6a5d154",
+   "json_bytes": 444318,
    "encoding": "gzip"
   },
   {
@@ -2471,9 +2471,9 @@
   },
   {
    "path": "packs/murphy/ch/37.json.gz",
-   "bytes": 46017,
-   "sha256": "d3ee9cfb0b6847224dd1a5620dc1137766bef2ede0b20edd5171fe56b5088ad4",
-   "json_bytes": 257541,
+   "bytes": 46010,
+   "sha256": "c394e53503d6ccbe391e763f1861b13029721075ffb2f7a9b69000b53f0c743c",
+   "json_bytes": 257591,
    "encoding": "gzip"
   },
   {
@@ -2485,9 +2485,9 @@
   },
   {
    "path": "packs/murphy/ch/39.json.gz",
-   "bytes": 39355,
-   "sha256": "a79cbcd41c8f2db48cc7aceb2d0a6de61a7edbd98f8c37b8b812a72d6795a668",
-   "json_bytes": 241688,
+   "bytes": 39349,
+   "sha256": "6d16fc41b2731304954318160c8c2c8279d976fc85bb8320461232ff472d016e",
+   "json_bytes": 241705,
    "encoding": "gzip"
   },
   {
@@ -2499,9 +2499,9 @@
   },
   {
    "path": "packs/murphy/ch/40.json.gz",
-   "bytes": 145979,
-   "sha256": "65442897375a6b65c327d1eac75540c88153ad1929602a92a1666d3866b9a415",
-   "json_bytes": 928812,
+   "bytes": 145971,
+   "sha256": "6705e2c08c9ae3be309243370d918315d638b0d6d2a196c9eb2dbfc1d7b8f182",
+   "json_bytes": 928820,
    "encoding": "gzip"
   },
   {
@@ -2527,9 +2527,9 @@
   },
   {
    "path": "packs/murphy/ch/44.json.gz",
-   "bytes": 140456,
-   "sha256": "e72bdd4fa0681852574c80aec2f4b0acb44c2d19a07d3a3435d72c94b115908a",
-   "json_bytes": 893180,
+   "bytes": 140448,
+   "sha256": "7078ac341043f2d5b94a579e84ed59ea5bd1eaea975c6fed95865d8f5003761d",
+   "json_bytes": 893182,
    "encoding": "gzip"
   },
   {
@@ -2541,9 +2541,9 @@
   },
   {
    "path": "packs/murphy/ch/46.json.gz",
-   "bytes": 71402,
-   "sha256": "d7cbb62236478e722e5e7910fec97d0e1b8440a65a6ae43658910e843a285ef4",
-   "json_bytes": 392375,
+   "bytes": 71391,
+   "sha256": "a9d05a0e7a08a370b98828bfea2af1d7767d51727d1a25e0ea2aa0b8ac03e7bd",
+   "json_bytes": 392379,
    "encoding": "gzip"
   },
   {
@@ -2653,16 +2653,16 @@
   },
   {
    "path": "packs/murphy/ch/60.json.gz",
-   "bytes": 237282,
-   "sha256": "2415aa19d2e28fbaf6c23fbfad6b115c3cad7b80eb74abc5d11ed9fe1888c048",
-   "json_bytes": 1453259,
+   "bytes": 237273,
+   "sha256": "4fe8d2efcbdca4df53197a3eafb274cd4efaf8e8637e4cb1919f535a482072fd",
+   "json_bytes": 1453265,
    "encoding": "gzip"
   },
   {
    "path": "packs/murphy/ch/61.json.gz",
-   "bytes": 44658,
-   "sha256": "8a14af8a5fb4e0b06f9da22254620428f70f5a65ebe91b4f9d11b5c7b2be9b8c",
-   "json_bytes": 237667,
+   "bytes": 44650,
+   "sha256": "2d5b8a459e72046d8de9300057c5a700082faf4131890bc2a5375acc156c784b",
+   "json_bytes": 237669,
    "encoding": "gzip"
   },
   {
@@ -2681,9 +2681,9 @@
   },
   {
    "path": "packs/murphy/ch/64.json.gz",
-   "bytes": 121098,
-   "sha256": "08cad020cf5f0fee051ccd10592bc4e917e4a3c05bba9de3779833adc2abeed1",
-   "json_bytes": 706110,
+   "bytes": 121089,
+   "sha256": "4c36832197f67e52ad1efc7ad6f614f55f41e8797157d1d1be45891520aae409",
+   "json_bytes": 706125,
    "encoding": "gzip"
   },
   {
@@ -2765,16 +2765,16 @@
   },
   {
    "path": "packs/murphy/ch/9.json.gz",
-   "bytes": 23186,
-   "sha256": "f5097e03a725f9d56fe57d0433f88c87125dee2e3e2df1a84c8446eaa18553ea",
-   "json_bytes": 124183,
+   "bytes": 23181,
+   "sha256": "ca0429e36ca34cd8e852dfd35399f08a950d7495b908a529865699ec160dffc3",
+   "json_bytes": 124194,
    "encoding": "gzip"
   },
   {
    "path": "packs/murphy/collation.json.gz",
-   "bytes": 1529871,
-   "sha256": "f935c18287e45ec45a2d9cf08161506aa04a472fba3aa66368749490351f2ff5",
-   "json_bytes": 8760202,
+   "bytes": 1530017,
+   "sha256": "e6fd9a1e7ff783da324409921cc30b23d6938ca8966d9f5c8e50d5a9c274062d",
+   "json_bytes": 8760463,
    "encoding": "gzip"
   },
   {
@@ -2786,54 +2786,54 @@
   },
   {
    "path": "packs/murphy/meta.json",
-   "bytes": 8765785,
-   "sha256": "0c7077b64edd73b7c3b363c098f313cff8a0f82b7558abd2d2f216a909554cc8",
+   "bytes": 8766046,
+   "sha256": "12a30e2414c8d8d02edfe573b4ae753d1f67cf63918fac5765dfb7b9c1b5584f",
    "encoding": "none"
   },
   {
    "path": "packs/murphy/meta.json.gz",
-   "bytes": 1531955,
-   "sha256": "e04ceab661d5ee69af64ed6733ad00eec0181db085df0f054810e86c085e9de9",
-   "json_bytes": 8765785,
+   "bytes": 1532098,
+   "sha256": "5c8219ec54776ef006a170b6620332ebbb915b2a10caecf9c57cf80048231f2d",
+   "json_bytes": 8766046,
    "encoding": "gzip"
   },
   {
    "path": "packs/murphy/rubrics-0.json",
-   "bytes": 25582576,
-   "sha256": "d48c9afd20a3011be855d086e929c8db467ffd4966e1be09b87b037269896af5",
+   "bytes": 25582814,
+   "sha256": "3ecfa5becdca6cf6f3f5b9befc9486f62be0b3db65c3bb08ad729a4b5a4ef0a9",
    "encoding": "none"
   },
   {
    "path": "packs/murphy/rubrics-0.json.gz",
-   "bytes": 4007917,
-   "sha256": "f253322e942d8fa06b4e76c24b60b4f1160d1102e2c02731afe6b35994557953",
-   "json_bytes": 25582576,
+   "bytes": 4007926,
+   "sha256": "cf06de65e3f56ad1e15770d1d4ce9f7888bbed2bee00f09621fa56d3b96f8867",
+   "json_bytes": 25582814,
    "encoding": "gzip"
   },
   {
    "path": "packs/murphy/rubrics-1.json",
-   "bytes": 16553036,
-   "sha256": "7ccadcfe21bdc09ee0bb3d82abc8fb122480aaaed9f743f5b59db425d54d5b36",
+   "bytes": 16553067,
+   "sha256": "dfd2fc5e950f244ff23cf24ccd798bc014aa4a3593250a82c687b2b0f9aab0d7",
    "encoding": "none"
   },
   {
    "path": "packs/murphy/rubrics-1.json.gz",
-   "bytes": 2866741,
-   "sha256": "8930f18b3d84e7a2c8106ab6dad6e8bcd927d64d424123076aeb8fe87fae167b",
-   "json_bytes": 16553036,
+   "bytes": 2866724,
+   "sha256": "a960e7e2c8825d8506ab1afc2e6114026f678b9ee60909bd7bb350afea0ce072",
+   "json_bytes": 16553067,
    "encoding": "gzip"
   },
   {
    "path": "packs/nash/data.json",
-   "bytes": 778745,
-   "sha256": "c0c6cb4bfe16f85f30d4ae1f2737ac67ab37a4d9bfe95dede346fce4ce5ad899",
+   "bytes": 778756,
+   "sha256": "3d28e1e50fed683a3cc7dc50be61a1c48a14fda82124e51a9638530fbd9844bc",
    "encoding": "none"
   },
   {
    "path": "packs/nash/data.json.gz",
-   "bytes": 179182,
-   "sha256": "4e93f7722cbb5873796bd25c92c90b7c7ead2cfabe4eeede73acf2cc3853c725",
-   "json_bytes": 778745,
+   "bytes": 179169,
+   "sha256": "2b56e5e2ac9c9b23654d6c28565feeb8dd850c5b1e9a74023c3f9248a8979dc0",
+   "json_bytes": 778756,
    "encoding": "gzip"
   },
   {
