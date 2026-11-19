@@ -707,338 +707,338 @@
   },
   {
    "path": "packs/hering/ch/0.json.gz",
-   "bytes": 185067,
-   "sha256": "c2343a47e7dbc0a456589a92968080dc2b527bd8d8593d5ae0c9547551a470ab",
-   "json_bytes": 1044478,
+   "bytes": 199573,
+   "sha256": "73c7eb6289dcdf2f398e0305535dcd5383acbb6315395dd0372e19bff3433960",
+   "json_bytes": 1100548,
    "encoding": "gzip"
   },
   {
    "path": "packs/hering/ch/1.json.gz",
-   "bytes": 15281,
-   "sha256": "e47a30e378adfd769ab8075ac41c32156b2d4de3a0289bb727043839bc98544f",
-   "json_bytes": 81886,
+   "bytes": 16433,
+   "sha256": "50742e0292d8b2c4321d50ed49c79cd7d4e33e4c3e809c7239f2619a5995d642",
+   "json_bytes": 88556,
    "encoding": "gzip"
   },
   {
    "path": "packs/hering/ch/10.json.gz",
-   "bytes": 27512,
-   "sha256": "e0605bf3c370e5428a6113555b5624af111dce45e09b58dfd2e6b1c973739072",
-   "json_bytes": 155148,
+   "bytes": 29221,
+   "sha256": "56137b628628cdd413e5493fd40a97926fb3f7f2df83bcd3a3c3da2c01cb6462",
+   "json_bytes": 164034,
    "encoding": "gzip"
   },
   {
    "path": "packs/hering/ch/11.json.gz",
-   "bytes": 11848,
-   "sha256": "b3a6df05fedf6b992760bfccbf13d61c155a9d1716a6ebc6d9f10e0b5ff359ae",
-   "json_bytes": 61811,
+   "bytes": 12380,
+   "sha256": "7c16e49a9cf188a2642ffc07067e8dbfc1f2b41d17fb68815d6b0e65cb49467b",
+   "json_bytes": 65292,
    "encoding": "gzip"
   },
   {
    "path": "packs/hering/ch/12.json.gz",
-   "bytes": 52169,
-   "sha256": "78f39c007ab0521b3374ade42d7a5f2e375c5f439c837b9691c261bb30fc439b",
-   "json_bytes": 288376,
+   "bytes": 55422,
+   "sha256": "cb7fc5b083ab6346e2ba662ea9d2315ba78b8a39f79f4e81fdfaf548734cfe8f",
+   "json_bytes": 308333,
    "encoding": "gzip"
   },
   {
    "path": "packs/hering/ch/13.json.gz",
-   "bytes": 34329,
-   "sha256": "038154ba0b1beb9f7984814a9b82c2729a51b108f2f9257d46fe5c357b6ae101",
-   "json_bytes": 216256,
+   "bytes": 36173,
+   "sha256": "46e2cf0b186a059a23c34332400b4efbd4124e559f924304e20f01aeef8c8d13",
+   "json_bytes": 227170,
    "encoding": "gzip"
   },
   {
    "path": "packs/hering/ch/14.json.gz",
-   "bytes": 26811,
-   "sha256": "4f860401bc301b29306ce7f33e77a79cef8de0912f73d39a489d1f2a9795bdcd",
-   "json_bytes": 159589,
+   "bytes": 28292,
+   "sha256": "6483d11d82479a4b74322463ce4e6a7d6ebd21316e31bdead8ae1e6f394a582f",
+   "json_bytes": 170474,
    "encoding": "gzip"
   },
   {
    "path": "packs/hering/ch/15.json.gz",
-   "bytes": 38401,
-   "sha256": "2dcb9b26eb1c939a5beff3d2ef3513d6d4b8e860a3b4c726b8d6c5cd9e9a40be",
-   "json_bytes": 248664,
+   "bytes": 40825,
+   "sha256": "6ccf9397a219f00e6cbe8365d8ee84c41df77ec202aec38a9282fe486b761100",
+   "json_bytes": 264902,
    "encoding": "gzip"
   },
   {
    "path": "packs/hering/ch/16.json.gz",
-   "bytes": 16686,
-   "sha256": "4e724ff5a991a0671d6dc200781c49b468e88133040d54190a87c4df82758bae",
-   "json_bytes": 99535,
+   "bytes": 17559,
+   "sha256": "9d58953673eeceee9d9e50df436b000c7946118c619fbe1b12f74ff2f907dd48",
+   "json_bytes": 107701,
    "encoding": "gzip"
   },
   {
    "path": "packs/hering/ch/17.json.gz",
-   "bytes": 24425,
-   "sha256": "3e5e32a49ea5dce16b20f0e62fce9e8ddb295feac9c74e9c0fc4e1048a2a143e",
-   "json_bytes": 144268,
+   "bytes": 26043,
+   "sha256": "79329fc870a5d46f657b5f1f9c4a0bd7c16b19e3d4f4f2483044bf97314e10ea",
+   "json_bytes": 155610,
    "encoding": "gzip"
   },
   {
    "path": "packs/hering/ch/18.json.gz",
-   "bytes": 50645,
-   "sha256": "6eb1ec98d128eeb6c02dce319ff291892b30851dbe8b905e90d1960a55ed3403",
-   "json_bytes": 279071,
+   "bytes": 53787,
+   "sha256": "db16c5bc2619af134126d669635c14a6e114fc928b1b20b2a8d8569df2b05d88",
+   "json_bytes": 301421,
    "encoding": "gzip"
   },
   {
    "path": "packs/hering/ch/19.json.gz",
-   "bytes": 85055,
-   "sha256": "3bf44d195de33776f701e0ae55544539bb2be8bdb6df2b6ea6559375720f2507",
-   "json_bytes": 498379,
+   "bytes": 90734,
+   "sha256": "8e52faec9786ae835b49abe3d6b010204af6c8ef3bbacc6a57ecd2a3bd51f4e0",
+   "json_bytes": 535903,
    "encoding": "gzip"
   },
   {
    "path": "packs/hering/ch/2.json.gz",
-   "bytes": 85814,
-   "sha256": "a7c27f82ad0976aa6dc1d410376877ada93a7d03e5154e116e6a520cacbe41ff",
-   "json_bytes": 486486,
+   "bytes": 91499,
+   "sha256": "47d1d6b3c5b8ad184cb6f7ec3afadf6131dff9641c306a30baa58d9916778902",
+   "json_bytes": 523001,
    "encoding": "gzip"
   },
   {
    "path": "packs/hering/ch/20.json.gz",
-   "bytes": 58780,
-   "sha256": "44286fb5ccede5f1845676c52b6096cb13e89c6178ab3b3dffb03a5ce9610c7c",
-   "json_bytes": 347481,
+   "bytes": 62457,
+   "sha256": "9c46e0c0c1ef6dce999799e757e8b7e9e5e0c0739f30129ce61d5d84e490594c",
+   "json_bytes": 373230,
    "encoding": "gzip"
   },
   {
    "path": "packs/hering/ch/21.json.gz",
-   "bytes": 62326,
-   "sha256": "0482edf059f69f1c24dc87c9c3c169a17d520ab5612618263c9344f77bdd10fe",
-   "json_bytes": 377321,
+   "bytes": 66625,
+   "sha256": "29cdd7c16bf3a7e181142cd8b83ef02ebbbf07ec41fd1663256ad5e3eb8f315a",
+   "json_bytes": 404830,
    "encoding": "gzip"
   },
   {
    "path": "packs/hering/ch/22.json.gz",
-   "bytes": 72268,
-   "sha256": "85226d4f196d7a223c776b604051a092b557b4aea3d9a3a64798c96cd9309891",
-   "json_bytes": 448839,
+   "bytes": 77989,
+   "sha256": "d81b6b98703f7f8fb518d4d502bcbf55ae73c53e8e063df673fbf328abe1eeb4",
+   "json_bytes": 487680,
    "encoding": "gzip"
   },
   {
    "path": "packs/hering/ch/23.json.gz",
-   "bytes": 52876,
-   "sha256": "bb5489f0f21ebd272ac49b88f6394449c594bdbf7c371b925be0593c572e670b",
-   "json_bytes": 331678,
+   "bytes": 56235,
+   "sha256": "c274a9f0ba945b74f3da4dc8513c75156566b5e481d4c14ba65a8bc72053b34e",
+   "json_bytes": 351026,
    "encoding": "gzip"
   },
   {
    "path": "packs/hering/ch/24.json.gz",
-   "bytes": 42301,
-   "sha256": "a096581a27b271829e4cc86d75adbc4179bdbb40bd977a8eeeba7955f953199e",
-   "json_bytes": 274365,
+   "bytes": 44200,
+   "sha256": "615f1182ed91848af227e889deee155d3a2b3a8414b854241ca437f7e1f228cc",
+   "json_bytes": 288403,
    "encoding": "gzip"
   },
   {
    "path": "packs/hering/ch/25.json.gz",
-   "bytes": 44795,
-   "sha256": "a8439807d05c069f550612b2383c0cd4668de76dc315d16e7d0caa6451f7d99d",
-   "json_bytes": 249874,
+   "bytes": 47707,
+   "sha256": "c0bb69f444bbac1e7b84ec78c1c292e7a6d365b911583cbff240d83450f85a66",
+   "json_bytes": 268646,
    "encoding": "gzip"
   },
   {
    "path": "packs/hering/ch/26.json.gz",
-   "bytes": 37468,
-   "sha256": "7ce89d3935e285e27d4f6423f20c817f3af327a63cc09459f8960aa6447e52e5",
-   "json_bytes": 232029,
+   "bytes": 39696,
+   "sha256": "a5c1d74d0ae71f9c2e073797e1e4af7728e8cc21831cddc63a5eb6e8c24c2ef2",
+   "json_bytes": 251909,
    "encoding": "gzip"
   },
   {
    "path": "packs/hering/ch/27.json.gz",
-   "bytes": 29902,
-   "sha256": "a587721443f8b88ef64b44457be7a32dbd648e33716cc6640c2c29ad6505da39",
-   "json_bytes": 175823,
+   "bytes": 31283,
+   "sha256": "86cb9d7bef9ce93cbea84652d3341a7f97f7909edc6034597eb0d9a522d9de2d",
+   "json_bytes": 187046,
    "encoding": "gzip"
   },
   {
    "path": "packs/hering/ch/28.json.gz",
-   "bytes": 50555,
-   "sha256": "4aaabc2a1268cb85f5aba03dd1f37c7a22ad165e2dd559c7920797bb7c085971",
-   "json_bytes": 311888,
+   "bytes": 52683,
+   "sha256": "3cca4620e9b9697279763b15ecdb7898d6bc825cd242cdb5d9956ae91979a199",
+   "json_bytes": 332137,
    "encoding": "gzip"
   },
   {
    "path": "packs/hering/ch/29.json.gz",
-   "bytes": 9908,
-   "sha256": "8acd5bc4e568a6113bf2a7a008870d2c67eb5129aa2bfaa2d30e8db87acd617c",
-   "json_bytes": 52508,
+   "bytes": 10394,
+   "sha256": "ebd610e36526e70758c0c3c2abe09d2a9b7553b933b1364523e73009152a09d3",
+   "json_bytes": 56359,
    "encoding": "gzip"
   },
   {
    "path": "packs/hering/ch/3.json.gz",
-   "bytes": 33707,
-   "sha256": "cab8427ce1674047d691229186f49a27b32c65011ba4d97c025d8d646b49b016",
-   "json_bytes": 188415,
+   "bytes": 35554,
+   "sha256": "8405308e6df984841a81ab9939264816cebedbfa5449e639b2fc302c5bc861d5",
+   "json_bytes": 205422,
    "encoding": "gzip"
   },
   {
    "path": "packs/hering/ch/30.json.gz",
-   "bytes": 52536,
-   "sha256": "803340a8b35625dc7b90cc58e503729f8fcf8363a833627f829160d5a1c282dd",
-   "json_bytes": 303559,
+   "bytes": 55856,
+   "sha256": "17128deceffe1eb94bdee178adc1600892bec9d41c8e140d3c0a00acdad8e685",
+   "json_bytes": 322220,
    "encoding": "gzip"
   },
   {
    "path": "packs/hering/ch/31.json.gz",
-   "bytes": 49217,
-   "sha256": "c6ff44809c2aac763cfddc78660896728b0f02e070dd337d4fa71740a6907517",
-   "json_bytes": 283771,
+   "bytes": 52407,
+   "sha256": "43b31dffddc2434ed7b4085b4c0d4914f163272605597b44077b271835e723d3",
+   "json_bytes": 303690,
    "encoding": "gzip"
   },
   {
    "path": "packs/hering/ch/32.json.gz",
-   "bytes": 76038,
-   "sha256": "883a866469fb2f5609026f8619716540a362f8f9f5a4d267613e782226bb45ec",
-   "json_bytes": 433168,
+   "bytes": 80941,
+   "sha256": "59aaba69e8739b15b7fd1e3065749b582b192cff48b43a1e18aef7ba5eb63b96",
+   "json_bytes": 457067,
    "encoding": "gzip"
   },
   {
    "path": "packs/hering/ch/33.json.gz",
-   "bytes": 20512,
-   "sha256": "2aac49d499b5e95bf321a7615dda95b7112867fd899bc109bfa00ad082e9dbb9",
-   "json_bytes": 115808,
+   "bytes": 21730,
+   "sha256": "3d250893d7514bf9f5db37e5e3d1ee544d625df8dd009da6521bee33b7bb9f61",
+   "json_bytes": 122427,
    "encoding": "gzip"
   },
   {
    "path": "packs/hering/ch/34.json.gz",
-   "bytes": 6165,
-   "sha256": "2c10d8a259409f80eb4a5b2b68dfdc8e89db9f5456cf0f4ef3628ea3bd1ee54b",
-   "json_bytes": 38119,
+   "bytes": 6302,
+   "sha256": "c0df1d417d195324f65d709dbaa6631206b4a1e2148289e134568a1f9813cc2e",
+   "json_bytes": 38829,
    "encoding": "gzip"
   },
   {
    "path": "packs/hering/ch/35.json.gz",
-   "bytes": 74430,
-   "sha256": "3fb9e20df6dd13f76439e8a967871ca086863426cc8b84358fc03727d1c9c59f",
-   "json_bytes": 391232,
+   "bytes": 79799,
+   "sha256": "69461be66cf3a7e6f59536030c96ae2dc85287ceecbf931c42727cbe47e9bfa2",
+   "json_bytes": 422897,
    "encoding": "gzip"
   },
   {
    "path": "packs/hering/ch/36.json.gz",
-   "bytes": 72030,
-   "sha256": "004c869e0668832d367eb7a7b7a62a1f55dc5cc96d44dfeb4ff97ac8915bfd0f",
-   "json_bytes": 379938,
+   "bytes": 77138,
+   "sha256": "71e6995e7bfcea6fd85456e432fd983f6d09097aba32270caafbf893b3f7cd33",
+   "json_bytes": 413498,
    "encoding": "gzip"
   },
   {
    "path": "packs/hering/ch/37.json.gz",
-   "bytes": 1976,
-   "sha256": "a022d7054a4dfb3091238a8465faddc3a6f04d05eb62f64ba226ee46d129a26d",
+   "bytes": 1968,
+   "sha256": "d8a22cff485b2e75d3ba1fec9b90ed4ecff93c67820f79cedd9255823d153c3f",
    "json_bytes": 8959,
    "encoding": "gzip"
   },
   {
    "path": "packs/hering/ch/38.json.gz",
-   "bytes": 6696,
-   "sha256": "f8efcf78b15b81981b92396fbf121510c1e2c1c6a611bb28b4c201c0e17abd44",
-   "json_bytes": 41572,
+   "bytes": 6846,
+   "sha256": "105488a73315ea3d7d527da2f2bcb6ba4b23a8c3b5f55fa6e2b81c52b2ce6fcd",
+   "json_bytes": 42033,
    "encoding": "gzip"
   },
   {
    "path": "packs/hering/ch/39.json.gz",
-   "bytes": 35411,
-   "sha256": "7f1002e5085722b75a5c417b6c7c72f277bbc8569e9a3d3d9b56b90f9aa490de",
-   "json_bytes": 188662,
+   "bytes": 37391,
+   "sha256": "d40e5f0be1b6ae27b14fbf4f5ece0c36057642a623941ba56b94441f297e8503",
+   "json_bytes": 203670,
    "encoding": "gzip"
   },
   {
    "path": "packs/hering/ch/4.json.gz",
-   "bytes": 106251,
-   "sha256": "83529b98fadb3869a40eeedfeb91d667ab9ff85d77b53582e2e4a40660142605",
-   "json_bytes": 577158,
+   "bytes": 113224,
+   "sha256": "6d8745150574b691301557fe2cf5ba05d6d1930524f53fbdde9b03c37daf514c",
+   "json_bytes": 623150,
    "encoding": "gzip"
   },
   {
    "path": "packs/hering/ch/40.json.gz",
-   "bytes": 5100,
-   "sha256": "f1125536d70b99305a54429dbed45d951f323cca32d3070de84be0611d22df5d",
-   "json_bytes": 26706,
+   "bytes": 5279,
+   "sha256": "c455db63602db69e026ab53c42c5e583d2c08f3e62c9178198b7db96d147c00c",
+   "json_bytes": 28166,
    "encoding": "gzip"
   },
   {
    "path": "packs/hering/ch/41.json.gz",
-   "bytes": 1334,
-   "sha256": "ac6d3a61801008eefd907df4d5b1f276d5c567d9941725f40fb490c6390e07c5",
-   "json_bytes": 5172,
+   "bytes": 1338,
+   "sha256": "1f7076be0f1945950fb9b1af470acb9dc75b3ac75a74232a251db455ecea9ba5",
+   "json_bytes": 5241,
    "encoding": "gzip"
   },
   {
    "path": "packs/hering/ch/42.json.gz",
-   "bytes": 11209,
-   "sha256": "e533aa57b22498ffb63bef4833f1c0cf82a95e433e4704ef0a9b88c4ee011e95",
-   "json_bytes": 59499,
+   "bytes": 11764,
+   "sha256": "1f2aa715a8aac015a3de747e73b27fd1584daa263518cba97fbd2d9099670c1e",
+   "json_bytes": 63111,
    "encoding": "gzip"
   },
   {
    "path": "packs/hering/ch/43.json.gz",
-   "bytes": 53279,
-   "sha256": "ce91a54aedf3c055b67ad4391c803539fd0b1c047115c5e1e1aa2fbf73df4341",
-   "json_bytes": 284625,
+   "bytes": 56224,
+   "sha256": "805a561c9241efbd17049fab950c32d0786470c70ab6273e4653ebf17f9d87ce",
+   "json_bytes": 302961,
    "encoding": "gzip"
   },
   {
    "path": "packs/hering/ch/44.json.gz",
-   "bytes": 15035,
-   "sha256": "20e4b5dca6f4735108c03cff6762a73549a926ec80f0de5855f8d8b964b3cac1",
-   "json_bytes": 86151,
+   "bytes": 15721,
+   "sha256": "eb7d3fc211b4420cd4b9a90e2082f7a5f4c1d0c455ba782d92872a8f3661f9f5",
+   "json_bytes": 90792,
    "encoding": "gzip"
   },
   {
    "path": "packs/hering/ch/45.json.gz",
-   "bytes": 21127,
-   "sha256": "3555dbc59461af002654070b66ced51de65e5e6997024c17bf516617991e844f",
-   "json_bytes": 108538,
+   "bytes": 21914,
+   "sha256": "0163de4d3f3990dca63196911ff21435abf4039bd98df46e88e4937c2d8b19e8",
+   "json_bytes": 118317,
    "encoding": "gzip"
   },
   {
    "path": "packs/hering/ch/46.json.gz",
-   "bytes": 34678,
-   "sha256": "7fb4eecd6d4f072076161129ec0c355b76563a313ddc2e2055a5950d408cc03b",
-   "json_bytes": 201939,
+   "bytes": 35957,
+   "sha256": "b2f921cdeb749d950442dbd068e145ca93f8991242b24453a2f9a384356a07c3",
+   "json_bytes": 211860,
    "encoding": "gzip"
   },
   {
    "path": "packs/hering/ch/47.json.gz",
-   "bytes": 30,
-   "sha256": "f9488cc8f37e97374ea7bc1d973235cbf66186e052d6ac4da830398f218e6751",
+   "bytes": 22,
+   "sha256": "64406e753d82e11c6bd63d1d04bb6aa083eefa0a46949bbfce994d556b989f0f",
    "json_bytes": 2,
    "encoding": "gzip"
   },
   {
    "path": "packs/hering/ch/5.json.gz",
-   "bytes": 25059,
-   "sha256": "c89baa00511c4e0ccd457cfeb18066b426e1ecc69fcb9617b36a583769caa84a",
-   "json_bytes": 134055,
+   "bytes": 27000,
+   "sha256": "c75237316a8b2ab8151f4863757cfd500cbbb00e0ba9fe6fa082465c12984f14",
+   "json_bytes": 146629,
    "encoding": "gzip"
   },
   {
    "path": "packs/hering/ch/6.json.gz",
-   "bytes": 19562,
-   "sha256": "c6b218518b2e68841c53d346e42a386c41f2d1b3fe51435fb60e276a2a663819",
-   "json_bytes": 100541,
+   "bytes": 20524,
+   "sha256": "73bfb8d7cb670a310b8bb3bb4850304fb1267dc4838dd91ac3b3d72473d3f1bb",
+   "json_bytes": 106949,
    "encoding": "gzip"
   },
   {
    "path": "packs/hering/ch/7.json.gz",
-   "bytes": 31096,
-   "sha256": "32735029a54db265ff34d45105de10fe364ecd909bc3109fd3837b5cb482eecd",
-   "json_bytes": 173857,
+   "bytes": 33016,
+   "sha256": "0d48eab94e3213aff0217bbc8eaedba6121ee35bce4e816d49b9a81937245854",
+   "json_bytes": 190740,
    "encoding": "gzip"
   },
   {
    "path": "packs/hering/ch/8.json.gz",
-   "bytes": 30981,
-   "sha256": "8fcbda4194216773569e88a60794ec84230aca412900096718910a242096c018",
-   "json_bytes": 176209,
+   "bytes": 32577,
+   "sha256": "16758a5d3c5450a209733f4a23ca688ab5ec4834878c2f0ca38089bea269934a",
+   "json_bytes": 188546,
    "encoding": "gzip"
   },
   {
    "path": "packs/hering/ch/9.json.gz",
-   "bytes": 26295,
-   "sha256": "62ada610bec2b59c9ef13f97762871965d117e720a5b605ad6ed20c42ef16632",
-   "json_bytes": 146919,
+   "bytes": 28000,
+   "sha256": "4f41f305f377ec2eef3a94ff643c253fb024cc0b52b0175ab87e29a46e77edcb",
+   "json_bytes": 154248,
    "encoding": "gzip"
   },
   {
@@ -1070,15 +1070,15 @@
   },
   {
    "path": "packs/hering/rubrics-0.json",
-   "bytes": 11020279,
-   "sha256": "9cb9360f5459172857f116e2e60d01ac008427744e48276ee5f1f6ebce154820",
+   "bytes": 11785587,
+   "sha256": "9152eee73e8bda2054f1ffe200ef1aef850c33beadb9fa0cb54598a93c54186f",
    "encoding": "none"
   },
   {
    "path": "packs/hering/rubrics-0.json.gz",
-   "bytes": 1944297,
-   "sha256": "a77ed728889102d1ad40f5d348c6021c8368cc00752e92f1a8ef871a751724a8",
-   "json_bytes": 11020279,
+   "bytes": 2052894,
+   "sha256": "802907501e7d5095464b40c1f27880588e887a71ac6e41a26213eb2cb0a785c8",
+   "json_bytes": 11785587,
    "encoding": "gzip"
   },
   {
